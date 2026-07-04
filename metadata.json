@@ -1,0 +1,6 @@
+{
+  "name": "Persian E-Commerce",
+  "description": "A complete, modern, and responsive Persian e-commerce platform inspired by Digikala, featuring product listings, detailed reviews, a shopping cart, checkout, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
